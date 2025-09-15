@@ -71,11 +71,6 @@ This part of the project was implemented by **Sanjana Nayak**, focusing on:
 ## 📫 Contact
 
 💌 Email: **[sanjananayak952@gmail.com](mailto:sanjananayak952@gmail.com)**
-🔗 GitHub: \[Github](https://github.com/sanjananayak952)
+🔗 GitHub: ![Github](https://github.com/sanjananayak952)
 
 ---
-
-👉 Once you have your friend’s GitHub repo link, just replace **`https://github.com/your-friend-repo-link`**.
-
-Do you want me to also add a **“How to Run This Module” section** (with sample code + install steps), so someone visiting your repo can test just your part without needing the entire Sentibot project?
-
