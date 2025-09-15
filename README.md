@@ -21,8 +21,7 @@ The **Real-Time Emotion Analysis** feature enables SentiBot to:
 * **Python** – Core programming language
 * **OpenCV** – Real-time computer vision processing
 * **Deep Learning (CNNs)** – For facial expression classification
-* **Dlib / Mediapipe (optional)** – For face detection & landmark extraction
-* **Streamlit / Flask (optional)** – For interactive interface
+
 
 ---
 
