@@ -71,6 +71,6 @@ This part of the project was implemented by **Sanjana Nayak**, focusing on:
 
 💌 Email: **[sanjananayak952@gmail.com](mailto:sanjananayak952@gmail.com)**
 
-🔗 GitHub: ![Github](https://github.com/sanjananayak952)
+🔗 GitHub: **[Github](https://github.com/sanjananayak952)**
 
 ---
